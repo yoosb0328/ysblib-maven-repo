@@ -3,7 +3,7 @@
   <groupId>com.ysblib</groupId>
   <artifactId>ysbLogUtil</artifactId>
   <version>0.0.1</version>
-  
+  <description>Custom Log Util Library</description>
   <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
